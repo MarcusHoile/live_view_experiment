@@ -1,4 +1,4 @@
-defmodule LiveViewExperimentWeb.GithubDeployView do
+defmodule LiveViewExperimentWeb.DashboardView do
   use Phoenix.LiveView
 
   def render(assigns) do
